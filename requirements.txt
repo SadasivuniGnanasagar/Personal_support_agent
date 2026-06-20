@@ -5,3 +5,5 @@ langchain
 pypdf
 python-dotenv
 sentence-transformers
+langchain-text-splitters
+torch
