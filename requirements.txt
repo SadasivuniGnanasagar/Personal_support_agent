@@ -1,9 +1,10 @@
 streamlit
-google-genai
-chromadb
-langchain
-pypdf
+google-generativeai
 python-dotenv
-sentence-transformers
+pypdf
+langchain
 langchain-text-splitters
+sentence-transformers
+chromadb==0.4.24
+protobuf==3.20.3
 torch
